@@ -6,6 +6,8 @@
 
 ![订单管理](http://cdn.liweihao.cn/image/blog/20200303105353.png)
 
+## 账号密码都是admin
+
 ## Project setup
 
 ```
