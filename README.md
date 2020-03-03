@@ -1,6 +1,13 @@
 # vue-el-admin
 
+## 效果演示(仅演示一部分)
+
+![首页](http://cdn.liweihao.cn/image/blog/20200303105216.png)
+
+![订单管理](http://cdn.liweihao.cn/image/blog/20200303105353.png)
+
 ## Project setup
+
 ```
 npm install
 ```
@@ -25,5 +32,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
