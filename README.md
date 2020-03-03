@@ -8,6 +8,12 @@
 
 ## 账号密码都是admin
 
+
+
+## 技术栈
+
+Vue+Vue全家桶+axios+阿里oss+vueElement+...
+
 ## Project setup
 
 ```
